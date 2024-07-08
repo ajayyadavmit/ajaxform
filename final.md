@@ -25,3 +25,19 @@
 
 ***Images Alternate Text***
 ![Images Second here](screenshot/list_student.png)
+
+- Fruits
+  - Mango
+  - banana
+- Pickle
+  - Chilly
+  - Papaya
+
+1. Nepal
+  1. Bagmati
+  2. Pokohar
+  3. Kathmandu
+2. India
+  1. Apple
+  2. Banana
+  
