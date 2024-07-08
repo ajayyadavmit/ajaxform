@@ -134,3 +134,63 @@ Bitbuck
 |ram|ktm|343535|full-time|
 |sti|jank|3423434|Part-time|
 |----|---|----|-----|
+
+### javascript code 
+```javascript
+var button = document.getElementById('myButton');
+
+// Add a click event listener to the button
+button.addEventListener('click', function() {
+    alert('Button clicked!');
+});
+```
+
+### java code 
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        // Display "Hello, World!"
+        System.out.println("Hello, World!");
+        
+        // Calculate the sum of 8 and 9
+        int num1 = 8;
+        int num2 = 9;
+        int sum = num1 + num2;
+        
+        // Display the result
+        System.out.println("The sum of " + num1 + " and " + num2 + " is " + sum);
+    }
+}```
+
+
+```python
+print("Hello, World!")
+
+# Calculate the sum of 8 and 9
+num1 = 8
+num2 = 9
+sum_result = num1 + num2
+
+# Display the result
+print("The sum of", num1, "and", num2, "is", sum_result)
+```
+
+## c program
+```C
+#include <stdio.h>
+
+int main() {
+    // Display "Hello, World!"
+    printf("Hello, World!\n");
+
+    // Calculate the sum of 8 and 9
+    int num1 = 8;
+    int num2 = 9;
+    int sum = num1 + num2;
+
+    // Display the result
+    printf("The sum of %d and %d is %d\n", num1, num2, sum);
+
+    return 0;
+}
+```
