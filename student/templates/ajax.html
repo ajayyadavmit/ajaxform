@@ -1,0 +1,24 @@
+<script>
+$('#addstudent').click(function(){
+console.log("Button Click add student");
+
+let nm = $('#id_name').val();
+let em = $('#id_email').val();
+let rn = $('#id_roll').val();
+console.log(nm, em, rn)
+
+mydata = {name: nm, email: em, roll: rn }
+
+$.ajax({
+  url: "{% url 'save' %}",
+  method: "POST", 
+  data : mydata, 
+  success: function(d){
+    console.log(d)
+  }
+
+})
+
+});
+
+</script>
