@@ -121,3 +121,16 @@ hello this is the statement in the programming lanaguage here :
 - [ ] Review pull requests
 - [ ] Plan next sprint
 
+Github
+: is the code repo platforms
+
+Bitbuck
+: is the source code private 
+
+
+### Table data 
+|name|loc|salary|contract|
+|----|---|----|-----|
+|ram|ktm|343535|full-time|
+|sti|jank|3423434|Part-time|
+|----|---|----|-----|
