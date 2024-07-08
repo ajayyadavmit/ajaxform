@@ -8,12 +8,11 @@
 
 #### Heading FOur Part
 
-##### Heading Five Part 
+##### Heading Five Part
 
-######  Heading SIX Part 
+###### Heading SIX Part
 
-* Italics Statement here * <br>
-** BOld Statment here ** <br>
+*Italics Statement here* <br>
+**BOld Statment here** <br>
 
-*** Bold and italics here *** <br>
-
+***Bold and italics here*** <br>
