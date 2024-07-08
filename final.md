@@ -104,9 +104,9 @@ class StudentForm(forms.ModelForm):
 
 
 ```
-hello this is the statement in the programming lanaguage here : 
-`print("ram " + 456 + "dkdll);`
 
+hello this is the statement in the programming lanaguage here :
+`print("ram " + 456 + "dkdll);`
 
 - [x] Task 1
 - [ ] Task 2
@@ -114,8 +114,8 @@ hello this is the statement in the programming lanaguage here :
 
 ~~How are yousdf d~~
 
-
 ### To-Do List
+
 - [x] Write a blog post
 - [ ] Update the documentation
 - [ ] Review pull requests
@@ -125,17 +125,18 @@ Github
 : is the code repo platforms
 
 Bitbuck
-: is the source code private 
+: is the source code private
 
+### Table data
 
-### Table data 
 |name|loc|salary|contract|
 |----|---|----|-----|
 |ram|ktm|343535|full-time|
 |sti|jank|3423434|Part-time|
 |----|---|----|-----|
 
-### javascript code 
+### javascript code
+
 ```javascript
 var button = document.getElementById('myButton');
 
@@ -145,7 +146,8 @@ button.addEventListener('click', function() {
 });
 ```
 
-### java code 
+### java code
+
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
@@ -176,6 +178,7 @@ print("The sum of", num1, "and", num2, "is", sum_result)
 ```
 
 ## c program
+
 ```C
 #include <stdio.h>
 
@@ -194,3 +197,10 @@ int main() {
     return 0;
 }
 ```
+
+#### To do Task List
+
+- [x] one
+- [] two
+- [] three
+- [x] Four
