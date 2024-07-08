@@ -34,10 +34,9 @@
   - Papaya
 
 1. Nepal
-  1. Bagmati
-  2. Pokohar
-  3. Kathmandu
+    1. Bagmati
+    2. Pokohar
+    3. Kathmandu
 2. India
-  1. Apple
-  2. Banana
-  
+    1. Apple
+    2. Banana
