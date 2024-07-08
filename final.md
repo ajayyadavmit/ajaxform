@@ -201,6 +201,6 @@ int main() {
 #### To do Task List
 
 - [x] one
-- [] two
-- [] three
+- [ ] two
+- [ ] three
 - [x] Four
