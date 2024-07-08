@@ -58,14 +58,16 @@ good to have you here
     1. Apple
     2. Banana
 
+---
+
 - Laptop
   - Apple
-  - Windows 
-  - Lenevo 
+  - Windows
+  - Lenevo
 - Home
   - Banchauri
   - Badiya
-  - Timkiya 
+  - Timkiya
 
 1. Laptop
     1. windows
@@ -80,16 +82,42 @@ good to have you here
 > This is new  
 > Hero
 >> jacktion
->> jackle 
-This is new   
-
-
-HOw are you  doing 
-> one 
->> two 
+>> jackle
+This is new
+---
+HOw are you  doing
+> one
+>> two
 >>> three  
+---
 
 > Second
->> 2.2 
->>> 2.3 
+>> 2.2
+>>> 2.3
+
+```
+
+class StudentForm(forms.ModelForm):
+    class Meta:
+        model = Student
+        fields = "__all__"
+
+
+```
+hello this is the statement in the programming lanaguage here : 
+`print("ram " + 456 + "dkdll);`
+
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+~~How are yousdf d~~
+
+
+### To-Do List
+- [x] Write a blog post
+- [ ] Update the documentation
+- [ ] Review pull requests
+- [ ] Plan next sprint
 
